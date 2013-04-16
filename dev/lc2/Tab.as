@@ -1,0 +1,1 @@
+﻿package{	import flash.display.Sprite;	import flash.display.MovieClip;	import flash.events.MouseEvent;		public class Tab extends Sprite	{		public function Tab():void		{			addEventListener(MouseEvent.CLICK, onClick);					}				private function onClick(evt:MouseEvent):void		{			parent.setChildIndex(this, parent.numChildren - 1);		}			}}

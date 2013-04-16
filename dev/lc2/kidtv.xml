@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<content>
+	<english>
+		<shows>
+			<category>
+				<name><![CDATA[Basic]]></name>
+				<scripts>
+					<script><![CDATA[Basic script 1...]]></script>
+					<script><![CDATA[Basic script 2...]]></script>
+				</scripts>
+				<sounds>
+					<sound><![CDATA[Sound name]]></sound>
+					<sound><![CDATA[Sound name]]></sound>
+					<sound><![CDATA[Sound name]]></sound>
+				</sounds>
+				<bgs>
+					<bg><![CDATA[Background name]]></bg>
+					<bg><![CDATA[Background name]]></bg>
+					<bg><![CDATA[Background name]]></bg>
+				</bgs>
+			</category>
+			<category>
+				<name><![CDATA[Game Show]]></name>
+				<scripts>
+					<script><![CDATA[Game Show script 1...]]></script>
+					<script><![CDATA[Game Show script 2...]]></script>
+				</scripts>
+				<sounds>
+					<sound><![CDATA[Sound name]]></sound>
+					<sound><![CDATA[Sound name]]></sound>
+					<sound><![CDATA[Sound name]]></sound>
+				</sounds>
+				<bgs>
+					<bg><![CDATA[Background name]]></bg>
+					<bg><![CDATA[Background name]]></bg>
+					<bg><![CDATA[Background name]]></bg>
+				</bgs>
+			</category>
+			<category>
+				<name><![CDATA[News]]></name>
+				<scripts>
+					<script><![CDATA[News script 1...]]></script>
+					<script><![CDATA[News script 2...]]></script>
+				</scripts>
+				<sounds>
+					<sound><![CDATA[Sound name]]></sound>
+					<sound><![CDATA[Sound name]]></sound>
+					<sound><![CDATA[Sound name]]></sound>
+				</sounds>
+				<bgs>
+					<bg><![CDATA[Background name]]></bg>
+					<bg><![CDATA[Background name]]></bg>
+					<bg><![CDATA[Background name]]></bg>
+				</bgs>
+			</category>
+			<category>
+				<name><![CDATA[Weather]]></name>
+				<scripts>
+					<script><![CDATA[Weather script 1...]]></script>
+					<script><![CDATA[Weather script 2...]]></script>
+				</scripts>
+				<sounds>
+					<sound><![CDATA[Sound name]]></sound>
+					<sound><![CDATA[Sound name]]></sound>			
+					<sound><![CDATA[Sound name]]></sound>
+				</sounds>
+				<bgs>
+					<bg><![CDATA[Background name]]></bg>
+					<bg><![CDATA[Background name]]></bg>
+					<bg><![CDATA[Background name]]></bg>
+				</bgs>
+			</category>
+		</shows>
+		<strings>
+			<background><![CDATA[Background]]></background>
+			<script><![CDATA[Script]]></script>
+			<teleprompter_send><![CDATA[Send to Teleprompter]]></teleprompter_send>
+			<sound_fx><![CDATA[Sound FX]]></sound_fx>
+			<camera><![CDATA[Camera]]></camera>
+			<email><![CDATA[Email an image]]></email>
+			<send><![CDATA[Send email]]></send>
+			<start><![CDATA[Start]]></start>
+			<start_over><![CDATA[Start Over]]></start_over>
+			<back><![CDATA[Back]]></back>
+			<next><![CDATA[Next]]></next>
+			<done><![CDATA[Done]]></done>
+			<close><![CDATA[Close]]></close>
+			<yes><![CDATA[Yes]]></yes>
+			<no><![CDATA[No]]></no>
+			<english><![CDATA[English]]></english>
+			<spanish><![CDATA[Español]]></spanish>
+		</strings>
+	</english>
+	
+	<spanish>
+		<shows>
+			<category>
+				<name><![CDATA[Básico]]></name>
+				<scripts>
+					<script><![CDATA[Guión básico 1...]]></script>
+					<script><![CDATA[Guión básico 2...]]></script>
+				</scripts>
+				<sounds>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+				</sounds>
+				<bgs>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+				</bgs>
+			</category>
+			<category>
+				<name><![CDATA[Programa de concurso]]></name>
+				<scripts>
+					<script><![CDATA[Guión de programa de concurso 1...]]></script>
+					<script><![CDATA[Guión de programa de concurso 2...]]></script>
+				</scripts>
+				<sounds>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+				</sounds>
+				<bgs>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+				</bgs>
+			</category>
+			<category>
+				<name><![CDATA[Noticias]]></name>
+				<scripts>
+					<script><![CDATA[Guión de las noticias 1...]]></script>
+					<script><![CDATA[Guión de las noticias 2...]]></script>
+				</scripts>
+				<sounds>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+				</sounds>
+				<bgs>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+				</bgs>
+			</category>
+			<category>
+				<name><![CDATA[Tiempo]]></name>
+				<scripts>
+					<script><![CDATA[Guión de tiempo 1...]]></script>
+					<script><![CDATA[Guión de tiempo 2...]]></script>
+				</scripts>
+				<sounds>
+					<sound><![CDATA[Nombre de sonido]]></sound>
+					<sound><![CDATA[Nombre de sonido]]></sound>			
+					<sound><![CDATA[Nombre de sonido]]></sound>
+				</sounds>
+				<bgs>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+					<bg><![CDATA[Nombre de escenario]]></bg>
+				</bgs>
+			</category>
+		</shows>
+		<strings>
+			<background><![CDATA[Escena]]></background>
+			<script><![CDATA[Guión]]></script>
+			<teleprompter_send><![CDATA[Manda al Teleprompter]]></teleprompter_send>
+			<sound_fx><![CDATA[Efectos de sonido]]></sound_fx>
+			<camera><![CDATA[Cámara]]></camera>
+			<email><![CDATA[Manda un imágen por email]]></email>
+			<send><![CDATA[Manda email]]></send>
+			<start><![CDATA[Empezar]]></start>
+			<start_over><![CDATA[Reempezar]]></start_over>
+			<back><![CDATA[Atrás]]></back>
+			<next><![CDATA[Adelante]]></next>
+			<done><![CDATA[Terminado]]></done>
+			<close><![CDATA[Cierra]]></close>
+			<yes><![CDATA[Sí]]></yes>
+			<no><![CDATA[No]]></no>
+			<english><![CDATA[English]]></english>
+			<spanish><![CDATA[Español]]></spanish>
+		</strings>
+	</spanish>
+</content>
